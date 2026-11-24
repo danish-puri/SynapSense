@@ -1,4 +1,4 @@
-# SynapSense: Embedded Challenge, Fall 2026
+# SynapSense
 
 A wrist-worn prototype on the Seeed XIAO nRF52840 Sense. It detects the rhythmic jerking of a tonic–clonic
 seizure and alerts a paired phone over Bluetooth.
