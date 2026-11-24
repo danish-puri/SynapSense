@@ -1,0 +1,10 @@
+# PlatformIO build output
+.pio/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Not part of the repo
+agents.md
+AGENTS.md
